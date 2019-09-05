@@ -50,7 +50,7 @@ troll(){
     sleep 0.03
     echo " ============================="
     sleep 2
-    echo " ==      Recode : RandiSr   =="
+    echo " ==      Recode : Anbia   =="
     sleep 0.7
     echo " ============================="
 }
@@ -117,7 +117,7 @@ spam(){
                     echo " Gunakan tools dengan bijak"
                     echo
                     echo " Love u always "
-                    echo " RandiSr"
+                    echo " Anbia"
                     echo "======================================="
             else
                     echo "Kesalahan"
@@ -157,7 +157,7 @@ spam(){
                   echo " Gunakan tools dengan bijak"
                   echo
                   echo " Love u always "
-                  echo " RandiSr"
+                  echo " Anbia"
                   echo "========================================"
             else
                   echo Kesalahan, silahkan coba lagi
