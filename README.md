@@ -7,5 +7,7 @@
 - git clone https://github.com/RandiSr/spammmsms 
 - cd spammmsms
 - bash spamm.sh
+
 #Recode RandiSr
+
 •Follow Ig @RanOloy
