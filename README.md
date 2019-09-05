@@ -4,7 +4,8 @@
 - pkg update
 - pkg install python2
 - pkg install git
-- git clone
-- cd
-- bash
-*Selamat mencoba*
+- git clone https://github.com/RandiSr/spammmsms 
+- cd spammmsms
+- bash spamm.sh
+#Recode RandiSr
+•Follow Ig @RanOloy
