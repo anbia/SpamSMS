@@ -8,6 +8,6 @@
 - cd spammmsms
 - bash spamm.sh
 
-#Recode RandiSr
+# Recode RandiSr
 
 •Follow Ig @RanOloy
